@@ -1,0 +1,16 @@
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+It is used for: web development (server-side),software development,mathematics,system scripting.
+There are three main types of environments:text editors(sublime), full IDE`s, notebook environments
+Why it is called Python?
+Guido van Rossum was also reading the published scripts from "Monty Python`s Flying Circus", a BBC comedy series from the 1970s.
+It follows line by line code reading procedure.
+
+Sample python:
+Hello world, with parentheses and quotation marks.
+Save file without space in filename and include .py
+In checking the information, command prompt, always include one space after the word python	.
+cd means change directory
+Algorithm: python --version, cd Desktop, python name nung file
+Escape Character: /t=for tab, /n=for new line, /	
+Basta kapag may lumabas na blue meaning bawal, dapat white ang lalabas.
+A variable should start in an alphabet.
